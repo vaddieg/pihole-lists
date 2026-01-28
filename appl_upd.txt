@@ -1,0 +1,6 @@
+# Title: macOS-update known hosts
+
+0.0.0.0		updates.cdn-apple.com
+0.0.0.0		updates.g.aaplimg.com
+0.0.0.0		sequoia.cdn-apple.com
+0.0.0.0		gdmf.apple.com
