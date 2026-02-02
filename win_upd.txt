@@ -1,0 +1,7 @@
+# Title: Win-update known hosts
+
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 msupdate.microsoft.com
+0.0.0.0 ntservicepack.microsoft.com
